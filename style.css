@@ -1,0 +1,50 @@
+
+
+
+		.test1{
+			
+			font-size:20px;
+			/*background-color:rgba(0,0,0);*/
+
+		}
+		.divbgcolor{background-color:black;
+
+					width:200px;
+					height:300px;
+		}
+		.shdow{
+			font-size:5px;
+			color:blue;
+		}
+		#test2{
+			background-color:red;
+				}
+		#test3{
+			background-color:red;
+
+		}
+
+		}
+		.textsize{
+			font-size:30px;
+
+		}
+		/*.textcolor{
+			color:purple;
+		}*/
+		.aotuziti{
+			font-size: 30px;
+				color: gray;
+				text-shadow: 1px 1px 1px black,
+								-1px -1px 1px white;
+		}
+		.body{
+			background-color:gray;
+
+		}
+
+		.div2{
+			background-color:black;
+			width:200px;
+			height:250px;
+		}
